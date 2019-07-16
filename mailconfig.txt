@@ -1,0 +1,9 @@
+https://myaccount.google.com/u/2/lesssecureapps?pageId=none
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewPass';
+
+
+Installation of mysql download zip file and extractthe files and keep in programfile--> mysql folder
+open run as administartor in cmd type mysld --console --initiliaze
+then go to mysql in programfiles add a folder name as data 
+1.mysql run in administrator as mysqld
+2.Go to command prompt and type mysql -u root -p
